@@ -1,0 +1,54 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  background-color: #2e2b2b;
+}
+h1 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #836cee;
+}
+
+h2 {
+  color: gold;
+  padding: 10px;
+}
+#message-el {
+  font-style: italic;
+}
+
+button {
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: goldenrod;
+  color: #016f32;
+  font-weight: 5px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+#increment-btn {
+  background: darkred;
+}
+#save-btn {
+  background: darkgreen;
+}
+#greeting-btn {
+  background: rgb(128, 27, 138);
+}
+#add3-btn {
+  background: gold;
+}
+#remove1-btn {
+  background: black;
+}
+
+p {
+  color: wheat;
+  font-weight: 20px;
+}
